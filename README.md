@@ -126,13 +126,12 @@ Top features users want:
 
 ## Team
 
-| Name | Role | Email |
-|---|---|---|
-| Dania Juma | Project Manager | dan20201001@std.psut.edu.jo |
-| Anmar Rawashdeh | Data Analyst | anm20200074@std.psut.edu.jo |
-| Siraj Sawaf | IT Manager | sir20200780@std.psut.edu.jo |
+| Name | Email |
+|---|---|
+| Dania Juma | dan20201001@std.psut.edu.jo |
+| Anmar Rawashdeh | anm20200074@std.psut.edu.jo |
+| Siraj Sawaf | sir20200780@std.psut.edu.jo |
 
-Supervised by: Dr. Ahmad Abushakra
 Institution: Princess Sumaya University for Technology — King Talal School of Business Technology
 Year: 2024
 
