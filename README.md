@@ -112,7 +112,7 @@ Top features users want:
 
 ---
 
-## 🔮 Future Work
+##  Future Work
 
 - [ ] AI/ML integration for predicting unsold inventory and personalizing offers
 - [ ] Loyalty and referral points system
